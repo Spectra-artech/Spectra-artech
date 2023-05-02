@@ -5,5 +5,5 @@
 - 📫 How to reach me?  
 <[spectra.platform@gmail.com](spectra.platform@gmail.com)
 <[(https://www.spectra-artech.com)](https://www.spectra-artech.com)
-/Spectra-artech is a ✨ Metaverse Art Techno Research✨ repository
+/Spectra-artech is a ✨ Metaverse Art Techno Research✨ platform
 --->We are an experimental Art platform that proposes new ways of communicating the Art experience into the virtuality continuum of the Extended Reality (XR)
